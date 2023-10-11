@@ -1,5 +1,1 @@
-# literacy
-
-
-2342079
-田嶋の主張
+I love [Wikipedia]_(https://ja.wikipedia.org)!
